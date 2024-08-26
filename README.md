@@ -1,7 +1,8 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
-Read the docs at https://docs.movie-web.app/proxy/introduction
+Simple reverse proxy to bypass CORS
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Acceptto/cf-worker-cors-proxy)
 
 ---
 
